@@ -27,6 +27,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Hello World");
     NSLog(@"Hello World2");
+    NSLog(@"Hello World3");
     
     sum = 10;
     abc = 100;
