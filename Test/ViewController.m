@@ -26,6 +26,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Hello World");
+    NSLog(@"Hello World2");
     
     sum = 10;
     abc = 100;
