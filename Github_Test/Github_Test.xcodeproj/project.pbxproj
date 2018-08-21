@@ -13,6 +13,7 @@
 		B835CBB7212BA70100369493 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B835CBB6212BA70100369493 /* Assets.xcassets */; };
 		B835CBBA212BA70100369493 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B835CBB8212BA70100369493 /* LaunchScreen.storyboard */; };
 		B835CBBD212BA70100369493 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B835CBBC212BA70100369493 /* main.m */; };
+		B835CBC5212BCA5700369493 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B835CBC4212BCA5700369493 /* TableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		B835CBB9212BA70100369493 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B835CBBB212BA70100369493 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B835CBBC212BA70100369493 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B835CBC3212BCA5700369493 /* TableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		B835CBC4212BCA5700369493 /* TableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				B835CBB8212BA70100369493 /* LaunchScreen.storyboard */,
 				B835CBBB212BA70100369493 /* Info.plist */,
 				B835CBBC212BA70100369493 /* main.m */,
+				B835CBC3212BCA5700369493 /* TableViewController.h */,
+				B835CBC4212BCA5700369493 /* TableViewController.m */,
 			);
 			path = Github_Test;
 			sourceTree = "<group>";
@@ -144,6 +149,7 @@
 				B835CBB2212BA70000369493 /* ViewController.m in Sources */,
 				B835CBBD212BA70100369493 /* main.m in Sources */,
 				B835CBAF212BA70000369493 /* AppDelegate.m in Sources */,
+				B835CBC5212BCA5700369493 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
